@@ -1,4 +1,4 @@
-package boot;
+package com.aljumaro.configtest.boot;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;

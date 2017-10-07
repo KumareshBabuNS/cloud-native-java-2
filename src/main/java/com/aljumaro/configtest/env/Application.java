@@ -1,4 +1,4 @@
-package env;
+package com.aljumaro.configtest.env;
 
 import javax.annotation.PostConstruct;
 

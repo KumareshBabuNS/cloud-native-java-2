@@ -1,4 +1,4 @@
-package classic;
+package com.aljumaro.configtest.classic;
 
 import org.apache.commons.logging.LogFactory;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

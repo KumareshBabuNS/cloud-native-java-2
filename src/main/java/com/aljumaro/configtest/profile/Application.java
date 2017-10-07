@@ -1,4 +1,4 @@
-package profile;
+package com.aljumaro.configtest.profile;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
