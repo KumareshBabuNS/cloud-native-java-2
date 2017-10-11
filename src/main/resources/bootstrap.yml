@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: cats-service
+  cloud:
+    config:
+      uri: http://localhost:8888
